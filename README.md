@@ -1,19 +1,12 @@
-# PlugEx
+# Elixir tutorial part 5
+# Plug and Cowboy
 
-**TODO: Add description**
+### In this tutorial we built a simple server/router example which allows us to match http requests and serve content. 
+## Run `mix run --no-halt` to run the app. 
 
-## Installation
+### Check out the Youtube Tutorial for this [Go Program](https://youtu.be/F4oAZx_ao4s). Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `plug_ex` to your list of dependencies in `mix.exs`:
+### Check out our blog at [tensor-programming.com](http://tensor-programming.com/).
 
-```elixir
-def deps do
-  [{:plug_ex, "~> 0.1.0"}]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/plug_ex](https://hexdocs.pm/plug_ex).
+### Our [Twitter](https://twitter.com/TensorProgram) and our [facebook](https://www.facebook.com/Tensor-Programming-1197847143611799/).
 
